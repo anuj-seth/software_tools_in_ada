@@ -1,0 +1,9 @@
+name = "software_tools_in_ada"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Anuj Seth"]
+maintainers = ["Anuj Seth <anujseth76@gmail.com>"]
+maintainers-logins = ["anuj-seth"]
+
+executables = ["software_tools_in_ada"]
